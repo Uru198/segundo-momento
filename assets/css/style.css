@@ -1,0 +1,94 @@
+body {
+    height: 1000px;
+}
+
+header {
+    display: flex;
+    border-radius: 0px 0px 150px 150px;
+    height: 120px;
+    box-shadow: 3px 3px 3px 3px  rgb(207, 206, 206);
+    
+}
+
+.logo {
+    width: 180px;
+    height: 80px;
+    position: absolute;
+    left: 280px;
+    top: 10px;
+}
+
+nav {
+    position: absolute;
+    left: 850px;
+    top: 30px;
+    
+}
+
+button {
+    margin-left: 10px;
+    background-color: white;
+    border-color: transparent;
+    font-size: 115%;
+    color: black;
+    padding: 15px;
+    margin: 10px;
+}
+
+.flecha {
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: 15px;
+}
+
+.button1 {
+    background-color: #D65106;
+    color: white;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 140%;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 20px;
+    padding: 15px;
+    margin: 0px;
+   
+}
+
+img {
+    width: 280px;
+    height: 200px;
+    margin: 15px;
+   
+}
+.section1 {
+    position: absolute;
+    left: 270px;
+    margin-top: 30px;
+    width: 320px;
+}
+.p1 {
+    color: white;
+    background-color: #D65106;
+    border-radius: 5px;
+}
+
+.section2 {
+    position: absolute;
+    left: 620px;
+    top: 155px;
+    
+    
+}
+
+.imgboton {
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+
+}
